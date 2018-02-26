@@ -1,0 +1,17 @@
+{
+  "name": "simple-fetch",
+  "version": "1.0.0",
+  "description": "easy use fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "tobeyouth@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "whatwg-fetch": "^2.0.3"
+  }
+}
